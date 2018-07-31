@@ -1,1 +1,2 @@
 # leetcode_training
+用来记录一下leetcode刷题的情况，顺便学习一下GitHub的使用
